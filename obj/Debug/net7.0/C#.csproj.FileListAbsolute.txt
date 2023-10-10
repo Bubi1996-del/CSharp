@@ -1,0 +1,14 @@
+C:\Users\bubi1\OneDrive\Área de Trabalho\C#\bin\Debug\net7.0\C#.exe
+C:\Users\bubi1\OneDrive\Área de Trabalho\C#\bin\Debug\net7.0\C#.deps.json
+C:\Users\bubi1\OneDrive\Área de Trabalho\C#\bin\Debug\net7.0\C#.runtimeconfig.json
+C:\Users\bubi1\OneDrive\Área de Trabalho\C#\bin\Debug\net7.0\C#.dll
+C:\Users\bubi1\OneDrive\Área de Trabalho\C#\bin\Debug\net7.0\C#.pdb
+C:\Users\bubi1\OneDrive\Área de Trabalho\C#\obj\Debug\net7.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bubi1\OneDrive\Área de Trabalho\C#\obj\Debug\net7.0\C#.AssemblyInfoInputs.cache
+C:\Users\bubi1\OneDrive\Área de Trabalho\C#\obj\Debug\net7.0\C#.AssemblyInfo.cs
+C:\Users\bubi1\OneDrive\Área de Trabalho\C#\obj\Debug\net7.0\C#.csproj.CoreCompileInputs.cache
+C:\Users\bubi1\OneDrive\Área de Trabalho\C#\obj\Debug\net7.0\C#.dll
+C:\Users\bubi1\OneDrive\Área de Trabalho\C#\obj\Debug\net7.0\refint\C#.dll
+C:\Users\bubi1\OneDrive\Área de Trabalho\C#\obj\Debug\net7.0\C#.pdb
+C:\Users\bubi1\OneDrive\Área de Trabalho\C#\obj\Debug\net7.0\C#.genruntimeconfig.cache
+C:\Users\bubi1\OneDrive\Área de Trabalho\C#\obj\Debug\net7.0\ref\C#.dll
